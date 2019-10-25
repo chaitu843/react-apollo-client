@@ -1,0 +1,26 @@
+.add-book{
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 0;
+    padding: 10px 20px;;
+}
+
+.field{
+    display: flex;
+    justify-content: space-between;
+    margin: 0.7em;
+}
+
+.field input, select{
+    padding: 3px;
+    margin-left: 1em;
+}
+
+button {
+    background-color: deeppink;
+    border-radius: 1em;
+    border: none;
+    padding: 1em;
+    float: right;
+    margin-top: 1em;
+}

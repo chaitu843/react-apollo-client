@@ -1,0 +1,21 @@
+.books-list{
+    width: 60%;
+    float: left;
+    padding: 0px;
+}
+
+
+.books-list li {
+    display: inline-block;
+    border: 2px solid deeppink;
+    border-radius: 0.5em;
+    padding: 1em;
+    margin: 1em;
+    cursor: pointer;
+}
+
+.detail{
+    background-color: deeppink;
+    width: 40%;
+    float: right;
+}
