@@ -12,4 +12,4 @@ Working Points
 
 2. In class components, RenderProps can be used (or) the old method using binding queries. --> @apollo/react-components package
 
-3. 
+3. Refetching Queries, Passing Variables and mutations is also being done!
